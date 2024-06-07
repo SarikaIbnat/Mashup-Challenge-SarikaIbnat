@@ -1,0 +1,32 @@
+ /* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+
+body {
+  background-color: navy;
+}
+h1{
+  color: #E55451;
+  text-style: bold;
+  font-family: cursive;
+  text-decoration: underline;
+  text-decoration-color: #F70D1A;
+}
+p{
+  color: #E55451;
+  font-family: cursive;
+}
+h2{
+  color: #F6358A;
+  font-family: cursive;
+  text-decoration: underline;
+}
+img{
+  border: 5px dashed #FF33AA;
+  border-radius: 10px;
+ 
+}
+b{
+  color: whitesmoke;
+  font-family: cursive;
+  
+}
